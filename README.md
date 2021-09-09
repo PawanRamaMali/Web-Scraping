@@ -14,4 +14,11 @@ It can be used to potentially retrieve hundreds, millions, or even billions of d
 
 > Websites want to be scraped but not overly scraped - Google 
 
+## HTTP Requests 
+
+* On the web, servers and clients usually communicate through HTTP requests.
+* HTTP stands for ‘HyperText Transfer Protocol’ and it specifies how requests and responses are to be formatted and transmitted. 
+* These requests are how most of your web surfing is happening. 
+* When opening a page, the browser sends a request to the server of that page, and the server responds with the relevant resources (HTML, images, etc.).
+* The two most popular request types are GET and POST.
 
