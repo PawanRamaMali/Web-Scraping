@@ -66,3 +66,22 @@ Codes in the ranges indicate:
 * The JSON format relies on 3 key concepts: it should be easy for humans to read and write; easy for programs to process and generate, regardless of the programming language; and, finally: written in plain text.
 * It achieves that by using conventions familiar to almost all programmers, by building upon 2 structures: dictionaries and lists.
 
+##### Dictionary 
+
+A dictionary is a data structure that contains key-value pairs, surrounded by curly brackets
+
+##### Lists 
+
+A list, on the other hand, is a collection of items. It is contained inside square brackets.
+
+
+### API 
+
+An API is an Application Programming Interface.
+An API specifies how software components should interact. You may think of it as a contract between a client and a server. If the client makes a request in a specific format, the server will always respond in a documented format or initiate a defined action. Web-based APIs usually provide information.
+Some APIs are free, most are either paid, or require registration. In the latter case, you are usually given a KEY and ID that must be incorporated into every request to that API.
+Examples of APIs:
+
+![image](https://user-images.githubusercontent.com/11299574/132754261-17a6e535-f15a-4a5f-91ec-5b337b9c2a3f.png)
+
+
