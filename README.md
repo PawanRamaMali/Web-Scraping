@@ -53,7 +53,16 @@ The two most frequently encountered status codes are:
 ▪ 404 Not Found – The server can not find the requested resource
 
 Codes in the ranges indicate:
-▪ 2xx – Success 
-▪ 3xx – Redirects
-▪ 4xx – Client errors 
-▪ 5xx – Server errors 
+
+* 2xx – Success 
+* 3xx – Redirects
+* 4xx – Client errors 
+* 5xx – Server errors
+
+
+### JSON 
+
+* JSON stands for ‘JavaScript Object Notation’ as it was derived from the JavaScript programming language. It is a standard for data exchange on the web.
+* The JSON format relies on 3 key concepts: it should be easy for humans to read and write; easy for programs to process and generate, regardless of the programming language; and, finally: written in plain text.
+* It achieves that by using conventions familiar to almost all programmers, by building upon 2 structures: dictionaries and lists.
+
