@@ -8,8 +8,10 @@ It can be used to potentially retrieve hundreds, millions, or even billions of d
 
 ## Ethics of Scraping
 
-* Legally ambiguous
-* Intellectual property and copyright laws
-* Terms of service (robots.txt) 
+* Do not engage in piracy or other unauthorized commercial use regarding the data you extract.
+* Read the ToS and robots.txt of the site you are about to scrape.
+* Do not spam the website with multiple requests in a short amount of time, as that may hurt them and/or may be classified as a DDOS attack.
 
 > Websites want to be scraped but not overly scraped - Google 
+
+
