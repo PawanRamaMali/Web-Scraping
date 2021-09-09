@@ -22,3 +22,23 @@ It can be used to potentially retrieve hundreds, millions, or even billions of d
 * When opening a page, the browser sends a request to the server of that page, and the server responds with the relevant resources (HTML, images, etc.).
 * The two most popular request types are GET and POST.
 
+### GET
+
+• Obtain data from server
+• Can be bookmarked
+• Parameters are added directly into the URL
+• Not used to send sensitive info (such as 
+passwords)
+
+### POST
+• Usually used when a state needs to be altered (such as adding items to you shopping cart) or when sending passwords
+• Parameters are added in a separate body, thus it is more secure
+• Cannot be bookmarked
+
+### Request headers
+
+* Request headers are pieces of information about the request itself - information, such as the encoding and language of the expected response, the length and type of data provided, who is making the request, cookies and so on. 
+* These pieces of information, referred to as headers, are intended to make communications on the web easier and more reliable, as the server has a better idea of how to respond.
+* Two of the most common header fields are the `User-Agent` (identification string for the software making the request) and cookies (special type of header that has a variety of uses)
+
+
