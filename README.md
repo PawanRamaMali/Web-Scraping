@@ -42,3 +42,18 @@ passwords)
 * Two of the most common header fields are the `User-Agent` (identification string for the software making the request) and cookies (special type of header that has a variety of uses)
 
 
+### Response 
+
+* The response contains 2 main pieces of information – the status code and the body of the response.
+* The status code indicates whether the request was successful and/or any errors. It is represented by a 3-digit number. 
+* The body of the response contains the requested information. Usually, it is either an HTML or a JSON file.
+
+The two most frequently encountered status codes are:
+▪ 200 OK – The request has succeeded
+▪ 404 Not Found – The server can not find the requested resource
+
+Codes in the ranges indicate:
+▪ 2xx – Success 
+▪ 3xx – Redirects
+▪ 4xx – Client errors 
+▪ 5xx – Server errors 
